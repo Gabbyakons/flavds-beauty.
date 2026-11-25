@@ -1,0 +1,290 @@
+[
+  {
+    "id": 1,
+    "name": "Lush Jumbo Braids (Big)",
+    "price": 5500,
+    "category": "Braiding Hair",
+    "image": "/api/uploads/174af3e876a3534de701.jpg",
+    "inStock": true
+  },
+  {
+    "id": 2,
+    "name": "Lush Wow Braids (Small)",
+    "price": 4000,
+    "category": "Braiding Hair",
+    "image": "",
+    "inStock": true
+  },
+  {
+    "id": 3,
+    "name": "X-Pression Super Braid (Big)",
+    "price": 5500,
+    "category": "Braiding Hair",
+    "image": "",
+    "inStock": true
+  },
+  {
+    "id": 4,
+    "name": "X-Pression Rich Braid (Small)",
+    "price": 4000,
+    "category": "Braiding Hair",
+    "image": "",
+    "inStock": true
+  },
+  {
+    "id": 5,
+    "name": "Bohemian Passion Twist",
+    "price": 6500,
+    "category": "Braiding Hair",
+    "image": "",
+    "inStock": true
+  },
+  {
+    "id": 6,
+    "name": "Darling Natural Twist Long (Kinky)",
+    "price": 5000,
+    "category": "Braiding Hair",
+    "image": "",
+    "inStock": true
+  },
+  {
+    "id": 7,
+    "name": "X-Pression Curly Braid",
+    "price": 6800,
+    "category": "Braiding Hair",
+    "image": "",
+    "inStock": true
+  },
+  {
+    "id": 8,
+    "name": "X-Pression Natural Kinky Braid",
+    "price": 4000,
+    "category": "Braiding Hair",
+    "image": "",
+    "inStock": true
+  },
+  {
+    "id": 9,
+    "name": "X-Pression Forever",
+    "price": 3700,
+    "category": "Braiding Hair",
+    "image": "",
+    "inStock": true
+  },
+  {
+    "id": 10,
+    "name": "X-Pression Daniela",
+    "price": 3800,
+    "category": "Braiding Hair",
+    "image": "",
+    "inStock": true
+  },
+  {
+    "id": 11,
+    "name": "Darling Passion Twist (2X)",
+    "price": 6700,
+    "category": "Braiding Hair",
+    "image": "",
+    "inStock": true
+  },
+  {
+    "id": 12,
+    "name": "Amigos Dancing Curl",
+    "price": 4800,
+    "category": "Braiding Hair",
+    "image": "",
+    "inStock": true
+  },
+  {
+    "id": 13,
+    "name": "X-Pression Multi",
+    "price": 2300,
+    "category": "Braiding Hair",
+    "image": "",
+    "inStock": true
+  },
+  {
+    "id": 14,
+    "name": "DF Shining Star Hair",
+    "price": 7000,
+    "category": "Braiding Hair",
+    "image": "",
+    "inStock": true
+  },
+  {
+    "id": 15,
+    "name": "Modern Queen Human Hair",
+    "price": 5000,
+    "category": "Braiding Hair",
+    "image": "",
+    "inStock": true
+  },
+  {
+    "id": 16,
+    "name": "Lush Sachet Relaxer",
+    "price": 1300,
+    "category": "Relaxers",
+    "image": "",
+    "inStock": true
+  },
+  {
+    "id": 17,
+    "name": "Mega Growth Relaxer",
+    "price": 1300,
+    "category": "Relaxers",
+    "image": "",
+    "inStock": true
+  },
+  {
+    "id": 18,
+    "name": "Olive Oil Relaxer",
+    "price": 1100,
+    "category": "Relaxers",
+    "image": "",
+    "inStock": true
+  },
+  {
+    "id": 19,
+    "name": "Nice-G Edge Control",
+    "price": 1500,
+    "category": "Hair Care",
+    "image": "",
+    "inStock": true
+  },
+  {
+    "id": 20,
+    "name": "Ocean Wave Hair Cream (Small)",
+    "price": 600,
+    "category": "Hair Care",
+    "image": "",
+    "inStock": true
+  },
+  {
+    "id": 21,
+    "name": "Soul Mate Hair Cream (Small)",
+    "price": 600,
+    "category": "Hair Care",
+    "image": "",
+    "inStock": true
+  },
+  {
+    "id": 22,
+    "name": "Soul Mate Hair Cream (Medium)",
+    "price": 1000,
+    "category": "Hair Care",
+    "image": "",
+    "inStock": true
+  },
+  {
+    "id": 23,
+    "name": "Lush Anti Dandruff Cream",
+    "price": 1400,
+    "category": "Hair Care",
+    "image": "",
+    "inStock": true
+  },
+  {
+    "id": 24,
+    "name": "TCB Anti Dandruff",
+    "price": 3000,
+    "category": "Hair Care",
+    "image": "",
+    "inStock": true
+  },
+  {
+    "id": 25,
+    "name": "Mega Growth Daily Leave-In",
+    "price": 2000,
+    "category": "Hair Care",
+    "image": "",
+    "inStock": true
+  },
+  {
+    "id": 26,
+    "name": "Petals Weave-On Oil",
+    "price": 1200,
+    "category": "Hair Care",
+    "image": "",
+    "inStock": true
+  },
+  {
+    "id": 27,
+    "name": "Petals Shampoo (Small)",
+    "price": 1000,
+    "category": "Hair Care",
+    "image": "",
+    "inStock": true
+  },
+  {
+    "id": 28,
+    "name": "Petals Shampoo (Big)",
+    "price": 1700,
+    "category": "Hair Care",
+    "image": "",
+    "inStock": true
+  },
+  {
+    "id": 29,
+    "name": "Above Hair Mousse 200ml",
+    "price": 2800,
+    "category": "Hair Care",
+    "image": "",
+    "inStock": true
+  },
+  {
+    "id": 30,
+    "name": "Above Hair Mousse 400ml",
+    "price": 4000,
+    "category": "Hair Care",
+    "image": "",
+    "inStock": true
+  },
+  {
+    "id": 31,
+    "name": "Above Hair Spray 450ml",
+    "price": 4500,
+    "category": "Hair Care",
+    "image": "",
+    "inStock": true
+  },
+  {
+    "id": 32,
+    "name": "Beva Cream Relaxer (Big)",
+    "price": 2500,
+    "category": "Relaxers",
+    "image": "",
+    "inStock": true
+  },
+  {
+    "id": 33,
+    "name": "Beva Cream Relaxer (Small)",
+    "price": 1600,
+    "category": "Relaxers",
+    "image": "",
+    "inStock": true
+  },
+  {
+    "id": 34,
+    "name": "Classic Oil Sheen Spray",
+    "price": 2200,
+    "category": "Hair Care",
+    "image": "",
+    "inStock": true
+  },
+  {
+    "id": 35,
+    "name": "Hair Harmony Hair Strengthening Oil",
+    "price": 2400,
+    "category": "Hair Care",
+    "image": "",
+    "inStock": true
+  },
+  {
+    "id": 36,
+    "name": "X-Pression Razor Cut",
+    "price": 2500,
+    "category": "Braiding Hair",
+    "image": "",
+    "inStock": true
+  }
+]
